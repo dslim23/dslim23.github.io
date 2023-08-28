@@ -1,10 +1,10 @@
 const firstLine = `<span class='bold'>David S. Lim</span> is an <span class='bold'>expert in using state-of-the-art AI to power transformative products</span>. He currently works on health AI at Apple.`;
 
 const linesText = `
-Previously at <span class='bold'>Stanford's Center for Research on Foundation Models</span>, he worked on evaluating and improving on models like <span class='bold'>GPT-4, DALLE, and Stable Diffusion</span>.
-His models on Hugging Face have <span class='bold'>over 3 million downloads a month</span>.
-David was a founding employee at <span class='bold'>Andrew Ng</span>'s AI startup, <span class='bold'>Woebot Health</span> (<span class='bold'>$114 million</span> in funding to date). Next, he led the AI/ML team at <span class='bold'>Spoke</span> (acquired by <span class='bold'>Okta</span>), scaling AI-powered help desks to serve <span class='bold'>millions of users worldwide</span>.
-As an experienced consultant, David provides his clients with the <span class='bold'>insight to navigate an AI-powered future</span>. He brings to the table his experience from <span class='bold'>cutting-edge research</span> and <span class='bold'>building AI systems in the real world.</span>
+At <span class='bold'>Stanford's Center for Research on Foundation Models</span>, he worked on evaluating and improving on models like <span class='bold'>GPT-4, DALLE, and Stable Diffusion</span>.
+His models on Hugging Face have <span class='bold'>over 3 million</span> downloads a month.
+David was a founding employee at <span class='bold'>Andrew Ng</span>'s AI startup, <span class='bold'>Woebot Health</span> ($114 million in funding to date). He led the AI/ML team at <span class='bold'>Spoke</span> (acquired by <span class='bold'>Okta</span>), scaling AI-powered help desks to serve millions of users worldwide.
+An experienced consultant, David provides his clients with the <span class='bold'>insight to navigate an AI-powered future</span>. He brings to the table his experience from <span class='bold'>cutting-edge research</span> and <span class='bold'>building AI systems in the real world.</span>
 `.split("\n");
 
 let typed;
